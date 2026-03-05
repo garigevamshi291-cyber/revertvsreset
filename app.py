@@ -1,6 +1,6 @@
 # Simple Python Program
 
-def greet(name):
+def greet(vamshi):
     print("Hello,", name)
     print("Welcome to Python programming!")
 
